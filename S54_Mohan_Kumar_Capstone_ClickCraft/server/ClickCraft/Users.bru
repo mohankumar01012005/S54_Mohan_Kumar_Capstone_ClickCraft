@@ -1,0 +1,20 @@
+meta {
+  name: Users
+  type: http
+  seq: 1
+}
+
+post {
+  url: http://localhost:3000/user
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "name":"Yagna Kusumanchi",
+    "picture":"",
+    "email":"yagna82kb@gmail.com",
+    "password":"Yagna@123"
+  }
+}

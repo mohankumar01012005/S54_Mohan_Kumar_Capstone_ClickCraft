@@ -1,0 +1,43 @@
+:root {
+  font-family: Inter, system-ui, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: #010314;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: #010314;
+}
+:root{
+  --primary:#7241FF;
+  --bg:#010314;
+}
+/* 
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent var(--primary);
+} */
+
+*::selection{
+  background: var(--primary);
+  color:var(--bg) ;
+}
+
+html::-webkit-scrollbar{
+  width: 0.7rem;
+}
+
+html::-webkit-scrollbar-track{
+  background: var(--bg);
+}
+
+html::-webkit-scrollbar-thumb{
+  background: var(--primary);
+}
+
+option{
+  background-color: #010314;
+}
