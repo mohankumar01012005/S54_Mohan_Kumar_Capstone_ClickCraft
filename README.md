@@ -22,22 +22,14 @@ Click Craft is a user-friendly web application designed to simplify the process 
 
 ## Getting Started
 
-1. Clone the repository: `https://github.com/kalviumcommunity/S54_Yagna_Kusumanchi_Capstone_ClickCraft.git`
+1. Clone the repository: `https://github.com/mohankumar01012005/S54_Mohan_Kumar_Capstone_ClickCraft`
 2. Install dependencies: `npm install` (for both frontend and backend)
 3. Start the application: `npm run dev`
 
-## Contribution Guidelines
-
-### We highly encourage contributions! Feel free to:
-
-- Submit issues for bug reports or feature requests.
-- Open pull requests to contribute code improvements.
-- Engage in discussions and share your valuable insights.
-- Let's collaboratively create an even better Click Craft!
 
 
-## Get in Touch
+## live : https://click-craft.vercel.app/
 
-Have questions or suggestions? Contact us at [kusumanchi.yagna@kalvium.community](mailto:kusumanchi.yagna@kalvium.community).
+
 
 Happy crafting your portfolio with Click Craft! 🌟
