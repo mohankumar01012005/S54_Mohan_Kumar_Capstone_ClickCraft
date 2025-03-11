@@ -22,9 +22,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kalviumcommunity/S54_Yagna_Kusumanchi_Capstone_ClickCraft.git"
+    "url": "https://github.com/mohankumar01012005/S54_Mohan_Kumar_Capstone_ClickCraft"
   },
-  "author": "Yagna Kusumanchi",
+  "author": "Mohan Kumar",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
